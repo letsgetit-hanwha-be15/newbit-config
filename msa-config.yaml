@@ -1,0 +1,4 @@
+jwt:
+  secret: t4kGirScDnr4wpeJBudhyPDvbIVb/b7dnEFpDAd0vuhEXV0tNfoc/ZL6fvF5p3C1rY306OgtV/DmTnNwmYd4Yg==
+  expiration: 1800000
+  refresh-expiration: 604800000
